@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "drawName": "ງວດທີ 1",
+        "startDate": "2023-01-01",
+        "endDate": "2023-01-24",
+        "randomTime": "2023-01-25",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 2,
+        "drawName": "ງວດທີ 2",
+        "startDate": "2023-02-10",
+        "endDate": "2023-02-11",
+        "randomTime": "2023-02-12",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "drawName": "ງວດທີ 3",
+        "startDate": "2023-02-20",
+        "endDate": "2023-02-21",
+        "randomTime": "2023-02-22",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 5,
+        "drawName": "ງວດທີ 5",
+        "startDate": "2023-03-11",
+        "endDate": "2023-03-12",
+        "randomTime": "2023-03-13",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 6,
+        "drawName": "ງວດທີ 6",
+        "startDate": "2023-03-15",
+        "endDate": "2023-03-16",
+        "randomTime": "2023-03-17",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 7,
+        "drawName": "ງວດທີ 7",
+        "startDate": "2023-04-19",
+        "endDate": "2023-04-20",
+        "randomTime": "2023-04-21",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 8,
+        "drawName": "ງວດທີ 8",
+        "startDate": "2023-04-25",
+        "endDate": "2023-04-26",
+        "randomTime": "2023-04-27",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 9,
+        "drawName": "ງວດທີ 9",
+        "startDate": "2023-05-04",
+        "endDate": "2023-05-05",
+        "randomTime": "2023-05-06",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 10,
+        "drawName": "ງວດທີ 10",
+        "startDate": "2023-05-30",
+        "endDate": "2023-05-31",
+        "randomTime": "2023-06-01",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 11,
+        "drawName": "ງວດທີ 11",
+        "startDate": "2023-05-30",
+        "endDate": "2023-05-31",
+        "randomTime": "2023-06-01",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 12,
+        "drawName": "ງວດທີ 12",
+        "startDate": "2023-05-30",
+        "endDate": "2023-05-31",
+        "randomTime": "2023-06-01",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 13,
+        "drawName": "ງວດທີ 10",
+        "startDate": "2023-05-30",
+        "endDate": "2023-05-31",
+        "randomTime": "2023-06-01",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 15,
+        "drawName": "ງວດທີ 12",
+        "startDate": "2023-07-11",
+        "endDate": "2023-07-12",
+        "randomTime": "2023-07-13",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 16,
+        "drawName": "ງວດທີ 16",
+        "startDate": "2023-07-27",
+        "endDate": "2023-07-28",
+        "randomTime": "2023-07-29",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 17,
+        "drawName": "ງວດທີ 17",
+        "startDate": "2023-07-27",
+        "endDate": "2023-07-28",
+        "randomTime": "2023-07-29",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 18,
+        "drawName": "ງວດທີ 14",
+        "startDate": "2023-09-01",
+        "endDate": "2023-09-07",
+        "randomTime": "2023-09-08",
+        "prizeGroup": 1,
+        "isActive": false
+    }
+]

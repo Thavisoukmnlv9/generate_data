@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "drawName": "ງວດທີ 1",
+        "startDate": "2023-01-23T08:06:55.000Z",
+        "endDate": "2023-01-23T08:06:55.000Z",
+        "randomTime": "2023-01-23T08:06:55.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 2,
+        "drawName": "ງວດທີ 2",
+        "startDate": "2023-02-10T09:13:19.000Z",
+        "endDate": "2023-02-10T09:13:19.000Z",
+        "randomTime": "2023-02-10T09:13:19.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "drawName": "ງວດທີ 3",
+        "startDate": "2023-02-20T08:19:41.000Z",
+        "endDate": "2023-02-20T08:19:41.000Z",
+        "randomTime": "2023-02-20T08:19:41.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 5,
+        "drawName": "ງວດທີ 5",
+        "startDate": "2023-03-11T15:27:21.000Z",
+        "endDate": "2023-03-11T15:27:21.000Z",
+
+        "randomTime": "2023-03-11T15:27:21.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 6,
+        "drawName": "ງວດທີ 6",
+        "startDate": "2023-03-15T07:49:25.000Z",
+        "endDate": "2023-03-15T07:49:25.000Z",
+        "randomTime": "2023-03-15T07:49:25.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 7,
+        "drawName": "ງວດທີ 7",
+        "startDate": "2023-04-19T04:05:09.000Z",
+        "endDate": "2023-04-19T04:05:09.000Z",
+        "randomTime": "2023-04-19T04:05:09.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 8,
+        "drawName": "ງວດທີ 8",
+        "startDate": "2023-04-25T05:29:23.000Z",
+        "endDate": "2023-04-25T05:29:23.000Z",
+        "randomTime": "2023-04-25T05:29:23.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 9,
+        "drawName": "ງວດທີ 9",
+        "startDate": "2023-05-04T07:34:48.000Z",
+        "endDate": "2023-05-04T07:34:48.000Z",
+        "randomTime": "2023-05-04T07:34:48.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 13,
+        "drawName": "ງວດທີ 10",
+        "startDate": "2023-05-30T04:52:41.000Z",
+        "endDate": "2023-05-30T04:52:41.000Z",
+        "randomTime": "2023-05-30T04:52:41.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 15,
+        "drawName": "ງວດທີ 12",
+        "startDate": "2023-07-11T08:16:10.000Z",
+        "endDate": "2023-07-11T08:16:10.000Z",
+        "randomTime": "2023-07-11T08:16:10.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 16,
+        "drawName": "ງວດທີ 13",
+        "startDate": "2023-07-27T09:01:43.000Z",
+        "endDate": "2023-07-27T09:01:43.000Z",
+        "randomTime": "2023-07-27T09:01:43.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    },
+    {
+        "id": 18,
+        "drawName": "ງວດທີ 14",
+        "startDate": "2023-08-23T03:07:59.000Z",
+        "endDate": "2023-08-23T03:07:59.000Z",
+        "randomTime": "2023-08-23T03:07:59.000Z",
+        "type": "Bill",
+        "prizeGroup": 1,
+        "isActive": false
+    }
+]
